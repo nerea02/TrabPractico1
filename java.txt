@@ -1,0 +1,4 @@
+¿Qué es java?
+Es un lenguaje de programación utilizado para codificar aplicaciones web.
+¿Qué se puede hacer con java?
+videos juegos, inteligencia artificial, computación en la nube,macrodatos
