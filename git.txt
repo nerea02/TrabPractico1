@@ -1,1 +1,5 @@
 Nerea Elías
+¿Que es git?
+Es un sofrware de control de versiones.De código abierto.
+¿Para que nos sirve en programación?
+Nuestros repositorios locales podemos clonarlos de forma remota y sin conexión.
